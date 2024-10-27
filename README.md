@@ -8,7 +8,7 @@ The application is deployed at: [https://tech-x-back-end.onrender.com](https://t
 
 ## Ruby Version
 
-This application is built with Ruby 3.x. Please ensure you have the correct version installed.
+This application is built with Ruby 3.3.1 Please ensure you have the correct version installed.
 
 ## System Dependencies
 
